@@ -8,13 +8,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09b778fe-3cd0-4177-9e86-70ac9ea394e9" name="Default Changelist" comment="完成按钮基本样式">
+    <list default="true" id="09b778fe-3cd0-4177-9e86-70ac9ea394e9" name="Default Changelist" comment="安装 parcel">
+      <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/button.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605146570715</updated>
       <workItem from="1605146573178" duration="1163000" />
-      <workItem from="1605147761191" duration="4927000" />
+      <workItem from="1605147761191" duration="6028000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1605148228625</created>
@@ -71,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605192584194</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="安装 parcel">
+      <created>1605194749622</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605194749622</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,21 +141,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="npm install vue" />
     <MESSAGE value="完成按钮基本样式" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成按钮基本样式" />
+    <MESSAGE value="安装 parcel" />
+    <option name="LAST_COMMIT_MESSAGE" value="安装 parcel" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="8" key="SettingsEditor" timestamp="1605147859188">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605147859188" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605192598859">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605194754312">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605192598859" />
-    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605147739799">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605194754312" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605195520327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1605147739799" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1605195520327" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605147898526">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
