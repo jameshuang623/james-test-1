@@ -9,7 +9,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09b778fe-3cd0-4177-9e86-70ac9ea394e9" name="Default Changelist" comment="加入 parcel，将 button 组件改为单文件组件">
+      <change afterPath="$PROJECT_DIR$/src/icon.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/button.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +61,7 @@
       <workItem from="1605146573178" duration="1163000" />
       <workItem from="1605147761191" duration="7046000" />
       <workItem from="1605599436942" duration="332000" />
-      <workItem from="1605599806486" duration="5697000" />
+      <workItem from="1605599806486" duration="6926000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1605148228625</created>
@@ -102,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605606585052</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="验证 iconPosition 为 left 或 right 中的一个">
+      <created>1605623277493</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605623277493</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +166,8 @@
     <MESSAGE value="安装 parcel" />
     <MESSAGE value="加入 parcel，将 button 组件改为单文件组件" />
     <MESSAGE value="添加 icon 和 iconPosition 属性" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 icon 和 iconPosition 属性" />
+    <MESSAGE value="验证 iconPosition 为 left 或 right 中的一个" />
+    <option name="LAST_COMMIT_MESSAGE" value="验证 iconPosition 为 left 或 right 中的一个" />
   </component>
   <component name="WindowStateProjectService">
     <state x="263" y="98" key="IDE.errors.dialog" timestamp="1605195676471">
@@ -167,10 +178,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605605196305" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605606588534">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605623280698">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605606588534" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605623280698" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605195520327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
