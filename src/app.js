@@ -2,7 +2,11 @@ import Vue from 'vue'
 import Button from './button'
 import Icon from './icon'
 import ButtonGroup from './button-group'
-import {expect} from 'chai';
+import {expect} from 'chai'
+import chai from 'chai'
+import spies from 'chai-spies'
+
+chai.use(spies)
 
 Vue.component('g-button', Button)
 Vue.component('g-icon', Icon)
@@ -81,20 +85,19 @@ new Vue({
     vm.$destroy()
 }
 {
-    const div = document.createElement('div')
     const Constructor = Vue.extend(Button)
     const vm = new Constructor({
         propsData: {
-            icon: 'settings',
-            iconPosition: 'right'
+            icon: 'settings'
         }
     })
     vm.$mount()
-    vm.$on('click', function (){
-        console.log(1)
-    })
+    let spy = chai.spy(function () {
+    });
+    vm.$on('click',spy)
     let button = vm.$el
     button.click()
+    expect(spy).to.have.been.called()
 }
 
 
