@@ -10,7 +10,6 @@
   <component name="ChangeListManager">
     <list default="true" id="09b778fe-3cd0-4177-9e86-70ac9ea394e9" name="Default Changelist" comment="加入 parcel，将 button 组件改为单文件组件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/button-group.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/button-group.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.css" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,7 +58,7 @@
       <workItem from="1605147761191" duration="7046000" />
       <workItem from="1605599436942" duration="332000" />
       <workItem from="1605599806486" duration="14642000" />
-      <workItem from="1605686060350" duration="2796000" />
+      <workItem from="1605686060350" duration="3515000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1605148228625</created>
@@ -152,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605688029175</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="第一个元素不需要 margin left -1px">
+      <created>1605690624916</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605690624916</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,21 +219,22 @@
     <MESSAGE value="添加 click 事件" />
     <MESSAGE value="创建 button group" />
     <MESSAGE value="检测子元素是不是 button" />
-    <option name="LAST_COMMIT_MESSAGE" value="检测子元素是不是 button" />
+    <MESSAGE value="第一个元素不需要 margin left -1px" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一个元素不需要 margin left -1px" />
   </component>
   <component name="WindowStateProjectService">
     <state x="263" y="98" key="IDE.errors.dialog" timestamp="1605195676471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="98" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1605195676471" />
-    <state x="184" y="8" key="SettingsEditor" timestamp="1605605196305">
+    <state x="184" y="8" key="SettingsEditor" timestamp="1605690702521">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605605196305" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605688031688">
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605690702521" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605690627196">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605688031688" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605690627196" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605195520327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
