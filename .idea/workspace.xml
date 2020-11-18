@@ -10,6 +10,8 @@
   <component name="ChangeListManager">
     <list default="true" id="09b778fe-3cd0-4177-9e86-70ac9ea394e9" name="Default Changelist" comment="加入 parcel，将 button 组件改为单文件组件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <workItem from="1605147761191" duration="7046000" />
       <workItem from="1605599436942" duration="332000" />
       <workItem from="1605599806486" duration="14642000" />
-      <workItem from="1605686060350" duration="3515000" />
+      <workItem from="1605686060350" duration="6884000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1605148228625</created>
@@ -158,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605690624916</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="安装 chai">
+      <created>1605692600935</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605692600935</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +229,8 @@
     <MESSAGE value="创建 button group" />
     <MESSAGE value="检测子元素是不是 button" />
     <MESSAGE value="第一个元素不需要 margin left -1px" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一个元素不需要 margin left -1px" />
+    <MESSAGE value="安装 chai" />
+    <option name="LAST_COMMIT_MESSAGE" value="安装 chai" />
   </component>
   <component name="WindowStateProjectService">
     <state x="263" y="98" key="IDE.errors.dialog" timestamp="1605195676471">
@@ -231,10 +241,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605690702521" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605690627196">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605692603823">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605690627196" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605692603823" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605195520327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
