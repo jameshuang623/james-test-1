@@ -9,11 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09b778fe-3cd0-4177-9e86-70ac9ea394e9" name="Default Changelist" comment="加入 parcel，将 button 组件改为单文件组件">
-      <change afterPath="$PROJECT_DIR$/test/button.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/button.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +68,7 @@
       <workItem from="1605706996761" duration="2888000" />
       <workItem from="1605712426259" duration="2227000" />
       <workItem from="1605781912837" duration="3231000" />
+      <workItem from="1605854691501" duration="2024000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1605148228625</created>
@@ -191,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605702104481</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="使用 npm test 和 npm run dev-test 自动测试">
+      <created>1605858462976</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605858462976</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +261,8 @@
     <MESSAGE value="安装 chai" />
     <MESSAGE value="使用 chai.expect 添加四个测试用例，第五个不会" />
     <MESSAGE value="使用 chai.spy 监听回调函数" />
-    <option name="LAST_COMMIT_MESSAGE" value="使用 chai.spy 监听回调函数" />
+    <MESSAGE value="使用 npm test 和 npm run dev-test 自动测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用 npm test 和 npm run dev-test 自动测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605707394976">
@@ -271,10 +277,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605690702521" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605702142108">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605858465645">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605702142108" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605858465645" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605195520327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
