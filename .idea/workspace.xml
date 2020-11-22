@@ -8,11 +8,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09b778fe-3cd0-4177-9e86-70ac9ea394e9" name="Default Changelist" comment="加入 parcel，将 button 组件改为单文件组件">
-      <change beforePath="$PROJECT_DIR$/.idea/gulu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gulu.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="09b778fe-3cd0-4177-9e86-70ac9ea394e9" name="Default Changelist" comment="加入 parcel，将 button 组件改为单文件组件" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +66,7 @@
       <workItem from="1605712426259" duration="2227000" />
       <workItem from="1605781912837" duration="3231000" />
       <workItem from="1605854691501" duration="13266000" />
-      <workItem from="1606059799138" duration="450000" />
+      <workItem from="1606059799138" duration="815000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1605148228625</created>
@@ -240,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605881793843</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="更新 README.md">
+      <created>1606060531430</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1606060531430</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +315,9 @@
     <MESSAGE value="dist/index.js" />
     <MESSAGE value="bump version" />
     <MESSAGE value="0.0.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.0.3" />
+    <MESSAGE value="更新 markdown" />
+    <MESSAGE value="更新 README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新 README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="346" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605870802093">
