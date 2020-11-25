@@ -5,6 +5,7 @@
 </template>
 <script>
 export default {
+  name: 'GuluButtonGroup',
   mounted() {
     console.log(this.$el)
     for (let node of this.$el.children) {
@@ -16,7 +17,7 @@ export default {
   }
 }
 </script>
-<style lang="scss">
+<style lang="scss" scoped>
 .g-button-group {
   display: inline-flex;
   vertical-align: middle;
